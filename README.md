@@ -57,19 +57,33 @@ Esta línea imprime el valor calculado del IMC en la consola.
 Clasificación del IMC
 
 //if (imc < 17.0) {
+
 //System.out.println("Delgadez Severa");
+
 //} else if (imc < 18.5) {
+
 //System.out.println("Delgadez moderada");
+
 //} else if (imc < 25) {
+
 //System.out.println("Peso normal");
+
 //} else if (imc < 30) {
+
 //System.out.println("Sobrepeso");
+
 //} else if (imc < 35) {
+
 //System.out.println("Obesidad Leve");
+
 //} else if (imc < 40) {
+
 //System.out.println("Obesidad Moderada");
+
 //} else if (imc < 45) {
+
 //System.out.println("Obesidad Morbida");
+
 //}
 
 Este bloque de código verifica el valor del imc y imprime la categoría correspondiente basada en el rango en el que se encuentra el imc. Las categorías van desde "Delgadez Severa" hasta "Obesidad Mórbida".
